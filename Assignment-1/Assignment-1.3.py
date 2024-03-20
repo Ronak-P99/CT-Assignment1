@@ -1,4 +1,5 @@
 #Task 3.1
+
 variable_a = "Hello, World!"
 variable_b = 23
 variable_c = 3.14
