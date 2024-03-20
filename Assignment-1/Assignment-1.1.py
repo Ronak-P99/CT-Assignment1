@@ -1,5 +1,5 @@
+#Assignment 1: Task 1.1 
 
-#Assignment 1: Task 1.1. 
 weather = "sunny"
 
 if weather == "sunny":
@@ -7,8 +7,7 @@ if weather == "sunny":
 else:
     print("Take an umbrella!")
 
-
-#Task 1.2.
+#Task 1.2
     
 print("Hello, How are you feeling today? ")
 user_feeling = input()
